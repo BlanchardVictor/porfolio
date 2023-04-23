@@ -1,0 +1,81 @@
+* {
+    margin:0px;
+    padding:0px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#contenedor {
+    width: 95%;
+    margin:auto;
+    background-color: red;
+}
+
+header {
+    background-color: aqua;
+    height: 100px;
+    
+}
+
+#section1 {
+    background-color: gray;
+    height: 200px;
+    text-align: center;
+}
+
+#section2 {
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    text-align: center;
+}
+
+#section3 {
+    background-color: yellowgreen;
+    height: 200px;
+    text-align: center;
+}
+
+footer {
+    background-color: dimgrey;
+    height: 100px;
+    color:antiquewhite;
+}
+
+body {
+    background: url(fondo-pagina.jpg);
+    background-size: cover;
+}
+
+#icononodejs {
+    width: 15px;
+    align-content: center;
+}
+
+#iconojs {
+    width: 15px;
+    align-content: center;
+}
+
+#iconohtml {
+    width: 15px;
+    align-content: center;
+}
+
+#iconocss {
+    width: 15px;
+    align-content: center;
+}
+
+#iconolinkedin {
+    width: 15px;
+    align-content: center;  
+}
+
+/* p {
+    float: left;
+    padding: 40px;
+
+}
+
+*/
+
